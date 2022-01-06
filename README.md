@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## 😄 I am Jung-min. Nice to meet you. I'm studying front-end web developer from korea. Have a nice day!!
+
 <!--
 **LEE-jm96/LEE-jm96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
