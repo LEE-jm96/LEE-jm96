@@ -1,6 +1,7 @@
 # Hi there 👋 
+
 ## Welcome to my github 💬
-### I'm Jungmin. Nice to meet you. I'm studying front-end web development from korea. Have a nice day!! 😄
+## I'm Jungmin. Nice to meet you. I'm studying front-end web development from korea. Have a nice day!! 😄
 
 
 
